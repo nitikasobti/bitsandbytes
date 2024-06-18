@@ -1,0 +1,1 @@
+const [courseInfo, setCourseInfo] = useState("");
